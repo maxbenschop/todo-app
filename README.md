@@ -2,7 +2,7 @@
 
 GlobalTodo is a universal todo application designed to help you manage your tasks effortlessly, no matter where you are. Stay organized, track your to-dos, and boost your productivity with GlobalTodo.
 
-![GlobalTodo Screenshot](link-to-screenshot.png)
+![GlobalTodo Screenshot](to-do.png)
 
 ## Features
 
@@ -11,6 +11,7 @@ GlobalTodo is a universal todo application designed to help you manage your task
 - Save your tasks in local storage for easy access.
 
 ## Demo
+![GlobalTodo Demo](https://maxbenschop.com/to-do)
 
 ## Coming Soon
 
